@@ -1,0 +1,171 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Bidrides: Intelligent Ride Bidding System",
+      "createdAt": "2024-07-01T10:00:00Z",
+      "url": "https://github.com/Akhil188/bidrides",
+      "description": "🌟 An intelligent platform to enhance ride-bidding experiences. This system uses Angular for the frontend and Django for the backend, focusing on dynamic and real-time ride bidding between passengers and drivers.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Angular",
+          "iconifyClass": "logos-angular"
+        },
+        {
+          "name": "Django",
+          "iconifyClass": "logos-django"
+        },
+        {
+          "name": "Azure",
+          "iconifyClass": "logos-azure"
+        },
+        {
+          "name": "MySQL",
+          "iconifyClass": "logos-mysql"
+        }
+        
+       
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzU=",
+      "name": "Quick Recycle: Environmental Incentive Platform",
+      "createdAt": "2024-06-15T10:00:00Z",
+      "url": "https://github.com/Akhil188/quick_recycle",
+      "description": "♻️ A web application encouraging users to recycle by offering rewards in the form of app credits. Built with React and Node.js, this platform promotes sustainable behavior by tracking recyclable materials and offering redeemable coupons.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "logos-nodejs"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "PostgreSQL",
+          "iconifyClass": "logos-postgresql"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzZ=",
+      "name": "Smart Health: Appointment Management Platform",
+      "createdAt": "2024-04-22T10:00:00Z",
+      "url": "https://github.com/Akhil188/smart_health",
+      "description": "🏥 A comprehensive platform for managing healthcare appointments and patient information. Using Laravel and React, the project features secure authentication and a robust appointment booking system for patients and doctors.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Laravel",
+          "iconifyClass": "logos-laravel"
+        },
+        {
+          "name": "PHP",
+          "iconifyClass": "logos-php"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzZ=",
+      "name": "Digital Asset Manager: Secure Asset Protection",
+      "createdAt": "2024-05-15T10:00:00Z",
+      "url": "https://github.com/Akhil188/digital-asset-manager",
+      "description": "🔐 This project provides secure digital asset protection and management. Built with Angular and Django, it helps users manage and protect their digital information with features like secure access, data visualization, and real-time collaboration.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Angular",
+          "iconifyClass": "logos-angular"
+        },
+        {
+          "name": "Django",
+          "iconifyClass": "logos-django"
+        },
+        {
+          "name": "AWS",
+          "iconifyClass": "logos-aws"
+        },
+        {
+          "name": "DynamoDB",
+          "iconifyClass": "logos-aws-dynamodb"
+        }
+
+      ]
+    },
+
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Stock Market Price Prediction Using LSTM",
+      "createdAt": "2023-06-15T14:00:00Z",
+      "url": "https://github.com/Akhil188/stock_price_prediction_lstm",
+      "description": "📈 A predictive model for stock market prices, utilizing Long Short-Term Memory (LSTM) networks to analyze historical data. The project leverages TensorFlow and Python to build a scalable and accurate price prediction system.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "TensorFlow",
+          "iconifyClass": "logos-tensorflow"
+        },
+        {
+          "name": "MySQL",
+          "iconifyClass": "logos-mysql"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "Government Schemes Chatbot with NLP & AIML",
+      "createdAt": "2023-05-22T10:00:00Z",
+      "url": "https://github.com/Akhil188/gov-chatbot",
+      "description": "💬 An AI-driven chatbot that provides detailed information about various government schemes using NLP techniques and AIML. This project simplifies accessing government information by offering real-time responses through conversational AI.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "NLP",
+          "iconifyClass": "logos-nlp"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGcPKSQ",
+      "name": "Emotion Recognition for Counseling Using SER & Librosa",
+      "createdAt": "2022-11-26T17:00:00Z",
+      "url": "https://github.com/Akhil188/counselling-chatbot-SER-",
+      "description": "🎧 This project utilizes Speech Emotion Recognition (SER) with the Librosa library to detect emotions from speech data. It supports mental health counseling by analyzing vocal inputs, enabling effective therapeutic intervention through deep learning models.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Librosa",
+          "iconifyClass": "logos-librosa"
+        },
+        {
+          "name": "TensorFlow",
+          "iconifyClass": "logos-tensorflow"
+        }
+      ]
+    }
+   
+  ]
+}
